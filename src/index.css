@@ -38,8 +38,9 @@ body {
 }
 
 #colors-list div {
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 550px;
+  margin: 1em;
   border-radius: 50%;
   margin-top: 40px;
   transition: all 1s ease;
@@ -60,13 +61,13 @@ body {
   background-color: #ffc153;
 }
 .green {
-  background-color: #27ae60;
+  background-color: #006442;
 }
 .blue {
-  background-color: #1d4fda;
+  background-color: #4C9BB0;
 }
-.violet {
-  background-color: #462446;
+.coral {
+  background-color: #f88379;
 }
 .black {
   background-color: #000000;
